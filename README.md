@@ -9,22 +9,20 @@
 
 ### SFT
 
+**VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning for Image and Video Generation**  
+**Venue:** AAAI 2025  
+**Paper:** https://arxiv.org/abs/2412.21059  
+**Code:** https://github.com/zai-org/VisionReward  
 
-VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning for Image and Video Generation
-link :https://arxiv.org/abs/2412.21059  
-venue: AAAI 2025
-code: https://github.com/zai-org/VisionReward
-
-
-
-
+---
 
 ### RL
 
-VideoDPO: Omni-Preference Alignment for Video Diffusion Generation (CVPR 2025)
-link :https://arxiv.org/abs/2412.14167
-venue: 
-code: https://github.com/CIntellifusion/VideoDPO
+**VideoDPO: Omni-Preference Alignment for Video Diffusion Generation**  
+**Venue:** CVPR 2025  
+**Paper:** https://arxiv.org/abs/2412.14167  
+**Code:** https://github.com/CIntellifusion/VideoDPO
+
 
 
 
